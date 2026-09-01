@@ -56,3 +56,7 @@ footer {
     background: #e5dccb;
     text-align: center;
 }
+
+footer p {
+    margin: 5px 0;
+}
