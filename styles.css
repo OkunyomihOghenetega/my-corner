@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: #f5f1e8;
+    color: #333;
+}
+
+header {
+    padding: 25px 8%;
+    background: #2f4858;
+    color: white;
+}
+
+main {
+    flex: 1;
+    padding: 80px 8%;
+}
+
+main h2 {
+    margin-bottom: 15px;
+}
+
+main p {
+    max-width: 500px;
+    line-height: 1.6;
+}
+
+footer {
+    padding: 20px 8%;
+    background: #e5dccb;
+}
