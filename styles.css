@@ -52,6 +52,11 @@ main p {
 }
 
 footer {
-    padding: 20px 8%;
+    padding: 25px 8%;
     background: #e5dccb;
+    text-align: center;
+}
+
+footer p {
+    margin: 5px 0;
 }
